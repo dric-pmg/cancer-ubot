@@ -1,5 +1,17 @@
 {
   "ubots": [
     "6287774868364"
-  ]
+  ],
+  "users": [
+    {
+      "phone": "6287774868364",
+      "name": "",
+      "addedAt": "2026-05-12T01:43:56.733Z",
+      "addedBy": "1716713444"
+    }
+  ],
+  "sessions": {},
+  "senders": [],
+  "blacklist": [],
+  "banner": "https://files.catbox.moe/ta2dkc.jpg"
 }
