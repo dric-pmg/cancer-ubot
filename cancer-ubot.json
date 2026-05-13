@@ -8,7 +8,8 @@
       "phone": "6287774868364",
       "name": "",
       "addedAt": "2026-05-12T01:43:56.733Z",
-      "addedBy": "1716713444"
+      "addedBy": "1716713444",
+      "telegramId": "8573484066"
     },
     {
       "phone": "6285124948820",
@@ -17,7 +18,13 @@
       "addedBy": "1716713444"
     }
   ],
-  "sessions": {},
+  "sessions": {
+    "8573484066": {
+      "session": "1BQANOTEuMTA4LjU2LjE3MwG7sfEhwgKKmnoHvVliOy6whzJf5CP/7OfNyD50O/zk/Nu/gBbTu3KjmxaGk3A6MoTuXPONmFFENjwjzhj+YiOUxohBv8dALdNmgr4HvoZ8/sTDEVr78clTYmz9duILeXsOg3ETg6N4RaQMxEfiI/JqmOZDdfsz+4BbS5yrp9CMVBMubwDUCF+fBFdWiQeD2eX4nh75vjiB/DUhisZKa2KhwbI4iyYx/hiq9h4Vmzsk6Apl6Q3OLKnDqYxUxVky+mjyiy6lPbzEB+Xc7LoGDm6mhPMbkAS2Dzn6gMYqgTWB5AkNMycoJ9wE891b68jts7X2JsoQTG4QEhrpf2XPu2eJVA==",
+      "phone": "+6287774868364",
+      "at": "2026-05-13T12:51:16.990Z"
+    }
+  },
   "senders": [],
   "blacklist": [],
   "banner": "https://files.catbox.moe/ta2dkc.jpg"
